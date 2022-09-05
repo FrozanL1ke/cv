@@ -1,0 +1,26 @@
+a {
+    color: green;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-size: 16px;
+    background-color: aqua;
+}
+
+#imglogo {
+    position: absolute;
+    margin: left;
+    width: 150px; height: 150px;
+    z-index: 100;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    margin-right: 150px;
+}
